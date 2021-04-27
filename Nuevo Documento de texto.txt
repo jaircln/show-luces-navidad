@@ -1,0 +1,1 @@
+sudo python /home/pi/lightshowpi/py/hardware_controller.py --state=flash
